@@ -11,13 +11,13 @@
   <samp>
     <p align="center">
       <br/>
-        <a href="https://www.linkedin.com/in/marco-araoz/" target="blank"><img align="center"
+        <a href="https://www.linkedin.com/in/marco-araoz/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="linkedin icon" height="30"/></a>
-        <a href="mailto:marcojuarezaraoz@gmail.com" target="blank"><img align="center"
+        <a href="mailto:marcojuarezaraoz@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="mail icon" height="30"/></a>
-      <a href="https://wa.me/+525632656192" target="blank"><img align="center"
+      <a href="https://wa.me/+525632656192" target="_blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="whats app icon" height="30"/></a>
     </p>
