@@ -151,7 +151,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="JavaScript Badge">
         <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="JavaScript Badge">
   </a> 
-  <a style="flex: 50%; padding: 5px;" href="https://github.com/MarcoAraoz">
+  <a style="flex: 50%; padding: 5px; " align="center" href="https://github.com/MarcoAraoz">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
         />
     </a>
