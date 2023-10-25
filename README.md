@@ -131,7 +131,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         />
     </a>
 </p>
-<p> 
+<p style="display: flex; text-align: left; margin: 5px;"> 
   <a> 
         <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
         <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
