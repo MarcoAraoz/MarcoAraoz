@@ -110,6 +110,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-Node.js-edeef5?style=flat&logo=node.js" alt="NodeJS Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-TypeScript-edeef5?style=flat&logo=TypeScript" alt="TypeScript Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Redux-edeef5?style=flat&logo=Redux&logoColor=680194" alt="Redux Badge">&nbsp;
+                <img src="https://img.shields.io/badge/-Axios-edeef5?style=flat&logo=Axios&logoColor=680194" alt="Axios Badge">&nbsp;
             </br>
                 <img src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Django-edeef5?style=flat&logo=django&logoColor=092E20" alt="Django Badge">&nbsp;
@@ -123,7 +124,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-Git-edeef5?style=flat&logo=git" alt="HTML Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-GitHub-edeef5?style=flat&logo=github&logoColor=000000" alt="CSS Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Markdown-edeef5?style=flat&logo=markdown&logoColor=000000" alt="JavaScript Badge">&nbsp;
-                <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-edeef5?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="JavaScript Badge">&nbsp;
+                <img src="https://img.shields.io/badge/-Postman-edeef5?style=flat&logo=Postman" alt="JavaScript Badge">&nbsp;
             </br>
                 <img src="https://img.shields.io/badge/-Figma-edeef5?style=flat&logo=Figma&logoColor=9a13d4" alt="Figma Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12" alt="Adobe Illustrator Badge">&nbsp;
