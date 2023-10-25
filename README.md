@@ -1,6 +1,8 @@
 <!-- <iframe src="/index.html" width="100%" height="400"></iframe> -->
 <!-- add a descriptive banner -->
-![work](./Leonardo_Vision_XL_a_work_environment_where_you_can_see_the_mu_1.jpg)
+<div class="banner" style="text-align:center;">
+    <img src="./Leonardo_Vision_XL_a_work_environment_where_you_can_see_the_mu_1.jpg" alt="work" width="50%" height="50%">
+</div>
 <!-- add a myself quote -->
 <h1 align='center'>
 The more I train, the more
