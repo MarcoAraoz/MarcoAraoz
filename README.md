@@ -132,7 +132,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <!-- </a> -->
 </p>
 <p style="display: flex;" align="center"> 
-  <a style="flex: 50%; padding: 5px; "> 
+  <a style="flex: 30%; padding: 5px; "> 
         <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
         <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
         <img src="https://img.shields.io/badge/-JavaScript-edeef5?style=flat&logo=javascript&logoColor=dbc202" alt="JavaScript Badge">&nbsp;
