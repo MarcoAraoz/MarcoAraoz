@@ -126,10 +126,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <samp>
 <p align="center">
 <p ">
-    <!-- <a align="center" href="https://github.com/MarcoAraoz"> -->
+    <a align="center" href="https://github.com/MarcoAraoz">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
         />
-    <!-- </a> -->
+    </a>
 </p>
 <p style="display: flex;" align="center"> 
   <a> 
