@@ -112,10 +112,11 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ![GitHub](https://img.shields.io/badge/-GitHub-edeef5?style=flat&logo=github&logoColor=000000)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-edeef5?style=flat&logo=markdown&logoColor=000000)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-edeef5?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 ![Figma](https://img.shields.io/badge/-Figma-edeef5?style=flat&logo=Figma&logoColor=9a13d4)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55)
+![InDesign](https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55)&nbsp;
 
 <!-- <a href="https://github.com/MarcoAraoz">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -125,59 +126,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <p style="flex: 50%; padding: 5px;" align="left"> 
   <a style="flex: 50%; padding: 5px;"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;"> 
     <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a> 
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;"> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &nbsp;
-   <a style="flex: 50%; padding: 5px;">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;">
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;">
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;"> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;"> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;"> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;"> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &nbsp;
-   <a style="flex: 50%; padding: 5px;">
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;">
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a style="flex: 50%; padding: 5px;">
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>&nbsp;
   <a style="flex: 50%; padding: 5px;" href="https://github.com/MarcoAraoz">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
         />
