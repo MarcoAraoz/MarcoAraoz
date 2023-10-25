@@ -122,7 +122,7 @@ The more I train, the more
 
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: space-evenly;">
 <samp>
 <p>
 <p style="justify-content: center; "align="center">
@@ -131,7 +131,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         />
     </a>
 </p>
-<p style="display: flex; justify-content: center; text-align: left; margin: 5px;"> 
+<p> 
   <a> 
         <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
         <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
