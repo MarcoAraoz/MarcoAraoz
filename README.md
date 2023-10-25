@@ -124,6 +124,12 @@ The more I train, the more
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 <div style="display: flex;">
+<p>
+    <!-- <a align="center" href="https://github.com/MarcoAraoz"> -->
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
+        />
+    <!-- </a> -->
+</p>
 <p style="display: flex;" align="center"> 
   <a style="flex: 50%; padding: 5px; "> 
         <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
@@ -153,12 +159,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="JavaScript Badge">&nbsp;
         <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="JavaScript Badge">&nbsp;
   </a> 
-</p>
-<p>
-    <!-- <a align="center" href="https://github.com/MarcoAraoz"> -->
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
-        />
-    <!-- </a> -->
 </p>
 </div>
 
