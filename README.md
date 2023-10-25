@@ -89,8 +89,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </div>
 </div> -->
 
-<blockquote>
-<center>
+
+<a>
 
 ![HTML](https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -117,8 +117,76 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ![Photoshop](https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55)
 
-</center>
-</blockquote>
+<!-- <a href="https://github.com/MarcoAraoz">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+        </a> -->
+
+<p>
+    <a href="https://github.com/MarcoAraoz">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
+        />
+    </a>
+</p>
+
+<p align="left"> 
+
+  <a> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+  </a> 
+  &emsp;
+  <a> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a> 
+    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+  </a>
+  &emsp;
+   <a>
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+  </a>
+  &emsp; 
+  <a> 
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
+  </a> 
+  &emsp;
+  <a> 
+     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
+   </a>
+  &emsp;
+  <a> 
+    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+  </a>
+  &emsp;
+   <a>
+    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+  </a>
+</p>
+
 
 
 
