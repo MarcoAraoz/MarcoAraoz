@@ -124,8 +124,8 @@ The more I train, the more
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 <div style="display: flex;">
 <samp>
-<p align="center">
 <p>
+<p align="center">
     <a align="right" href="https://github.com/MarcoAraoz">
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
         />
