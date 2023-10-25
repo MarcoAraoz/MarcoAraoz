@@ -22,8 +22,7 @@ The more I train, the more
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="whats app icon" height="30"/></a>
     </p>
-    <br/>
-    
+    <br/>   
   </samp>
 </div>
 
@@ -124,6 +123,8 @@ The more I train, the more
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 <div style="display: flex;">
+<samp>
+<p align="center">
 <p>
     <!-- <a align="center" href="https://github.com/MarcoAraoz"> -->
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
@@ -160,6 +161,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="JavaScript Badge">&nbsp;
   </a> 
 </p>
+</p>
+</samp>
 </div>
 
 
