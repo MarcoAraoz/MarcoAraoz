@@ -185,6 +185,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
   <a>
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
   </a>
+  <a href="https://github.com/MarcoAraoz">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
+        />
+    </a>
 </p>
 
 
