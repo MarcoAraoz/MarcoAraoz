@@ -76,7 +76,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </div>
     <div style="flex: 50%; padding: 5px;">
         <a href="https://github.com/MarcoAraoz">
-            <img style="align: center ;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+            <img align:"center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
         </a>
     </div>
 </div>
@@ -116,7 +116,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 
 
-<!-- <div style="display: flex;">
+<div style="display: flex;">
   <div style="flex: 50%; padding: 5px;">
     <a href="https://github.com/MartinHeinz/python-project-blueprint">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -127,7 +127,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
   </div>
-</div> -->
+</div>
 
 <!-- <div align="center">
 
