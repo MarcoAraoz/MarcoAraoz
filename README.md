@@ -122,12 +122,12 @@ The more I train, the more
 
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
-<div style="display: flex;" style="margin-right: 20px; padding: 10px;">
+<div style="display: flex;">
 <samp>
 <p align="center">
-<p style="margin-right: 20px; padding: 10px;">
-    <a style="margin-right: 20px; padding: 10px;" align="right" href="https://github.com/MarcoAraoz">
-        <img style="margin-right: 20px; padding: 10px;" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
+<p>
+    <a align="right" href="https://github.com/MarcoAraoz">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
         />
     </a>
 </p>
