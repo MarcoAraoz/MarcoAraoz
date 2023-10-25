@@ -31,21 +31,12 @@ The more I train, the more
 
 - 🌱 I’m currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
 
-### Currently working with
-
-- [React](https://reactjs.org/)
-- [NodeJS](https://nodejs.dev)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Docker](https://www.docker.com/)
-- [GitHub Actions](https://github.com/features/actions)
-- [Jest](https://jestjs.io/)
-- [Cypress](https://cypress.io/)
+<!-- ### Currently working with -->
 
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<div style="display: flex; flex-wrap: wrap; justify-content: left; align-items: left;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: left; align-items: left;">
     <div style="text-align: left; margin: 5px; ">
         <img style="" src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">
         <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">
@@ -89,14 +80,14 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="JavaScript Badge">
         <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="JavaScript Badge">
     </div>
-</div>
-<div style="display: flex;">
+</div> -->
+<!-- <div style="display: flex;">
     <div style="flex: 50%; padding: 5px;">
         <a href="https://github.com/MarcoAraoz">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
         </a>
     </div>
-</div>
+</div> -->
   
 ![HTML](https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -126,17 +117,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ![Photoshop](https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55)
 
-
-<div style="display: flex; flex-direction: row; align-items: flex-start;">
-        <a style="flex: 50%; padding: 5px; " href="https://github.com/MarcoAraoz">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-        </a>
-    <div style="flex: 50%; padding: 5px;">
-        <img src="https://img.shields.io/badge/-MySQL-edeef5?style=flat&logo=MySQL&logoColor=0d31b5" alt="HTML Badge">
-        <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="CSS Badge">
-        <img src="https://img.shields.io/badge/-MongoDB-edeef5?style=flat&logo=MongoDB&logoColor=10573c" alt="JavaScript Badge">
-    </div>
-</div>
 <!-- <div style="display: flex;">
   <div style="flex: 50%; padding: 5px;">
     <a href="https://github.com/MartinHeinz/python-project-blueprint">
@@ -149,13 +129,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </a>
   </div>
 </div> -->
-
-<!-- <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&layout=compact&custom_color=f33c&card_width=445)
-
-</div> -->
-
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
