@@ -90,8 +90,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </div> -->
 
 
-<a>
-
+<!-- 
 ![HTML](https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-edeef5?style=flat&logo=javascript&logoColor=dbc202)&nbsp;
@@ -116,7 +115,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ![Figma](https://img.shields.io/badge/-Figma-edeef5?style=flat&logo=Figma&logoColor=9a13d4)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55)&nbsp; -->
 
 <!-- <a href="https://github.com/MarcoAraoz">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
