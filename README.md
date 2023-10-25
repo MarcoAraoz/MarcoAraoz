@@ -1,6 +1,6 @@
 <!-- <iframe src="/index.html" width="100%" height="400"></iframe> -->
 <!-- add a descriptive banner -->
-
+![work](./Leonardo_Vision_XL_a_work_environment_where_you_can_see_the_mu_1.jpg)
 <!-- add a myself quote -->
 <h1 align='center'>
 The more I train, the more
@@ -116,6 +116,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ![Illustrator](https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55)
+
+
 
 <!-- <div style="display: flex;">
   <div style="flex: 50%; padding: 5px;">
