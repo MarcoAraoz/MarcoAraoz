@@ -128,12 +128,12 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
-    <div style="flex: 1; padding: 5px;">
+    <div style="flex: 50%; padding: 5px;">
         <a href="https://github.com/MarcoAraoz">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
         </a>
     </div>
-    <div style="flex: 1; padding: 5px;">
+    <div style="flex: 50%; padding: 5px;">
         <img src="https://img.shields.io/badge/-MySQL-edeef5?style=flat&logo=MySQL&logoColor=0d31b5" alt="HTML Badge">
         <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="CSS Badge">
         <img src="https://img.shields.io/badge/-MongoDB-edeef5?style=flat&logo=MongoDB&logoColor=10573c" alt="JavaScript Badge">
