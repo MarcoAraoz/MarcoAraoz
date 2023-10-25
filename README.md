@@ -136,7 +136,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
         <img src="https://img.shields.io/badge/-JavaScript-edeef5?style=flat&logo=javascript&logoColor=dbc202" alt="JavaScript Badge">&nbsp;
     </br>
-    </br>
         <img src="https://img.shields.io/badge/-React-edeef5?style=flat&logo=react&logoColor=1ca4e8" alt="HTML Badge">&nbsp;
         <img src="https://img.shields.io/badge/-Node.js-edeef5?style=flat&logo=node.js" alt="CSS Badge">&nbsp;
         <img src="https://img.shields.io/badge/-TypeScript-edeef5?style=flat&logo=TypeScript" alt="JavaScript Badge">&nbsp;
@@ -152,12 +151,12 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="CSS Badge">&nbsp;
         <img src="https://img.shields.io/badge/-MongoDB-edeef5?style=flat&logo=MongoDB&logoColor=10573c" alt="JavaScript Badge">&nbsp;
     </br>
-    </br>
+    <!-- </br>
         <img src="https://img.shields.io/badge/-Git-edeef5?style=flat&logo=git" alt="HTML Badge">&nbsp;
         <img src="https://img.shields.io/badge/-GitHub-edeef5?style=flat&logo=github&logoColor=000000" alt="CSS Badge">&nbsp;
         <img src="https://img.shields.io/badge/-Markdown-edeef5?style=flat&logo=markdown&logoColor=000000" alt="JavaScript Badge">&nbsp;
         <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-edeef5?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="JavaScript Badge">&nbsp;
-    </br>
+    </br> -->
     </br>
         <img src="https://img.shields.io/badge/-Figma-edeef5?style=flat&logo=Figma&logoColor=9a13d4" alt="HTML Badge">
         <img src="https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12" alt="CSS Badge">&nbsp;
