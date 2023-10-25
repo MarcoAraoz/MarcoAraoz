@@ -123,11 +123,34 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         </a> -->
 
 
-<p style="flex: 50%; padding: 5px;" align="left"> 
+<p style="display: flex;"> 
   <a style="flex: 50%; padding: 5px;"> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
+        <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
+        <img src="https://img.shields.io/badge/-JavaScript-edeef5?style=flat&logo=javascript&logoColor=dbc202" alt="JavaScript Badge">&nbsp;
+    </br>
+        <img src="https://img.shields.io/badge/-React-edeef5?style=flat&logo=react&logoColor=1ca4e8" alt="HTML Badge">&nbsp;
+        <img src="https://img.shields.io/badge/-Node.js-edeef5?style=flat&logo=node.js" alt="CSS Badge">&nbsp;
+        <img src="https://img.shields.io/badge/-TypeScript-edeef5?style=flat&logo=TypeScript" alt="JavaScript Badge">&nbsp;
+        <img src="https://img.shields.io/badge/-Redux-edeef5?style=flat&logo=Redux&logoColor=680194" alt="JavaScript Badge">&nbsp;
+    </br>
+        <img src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="HTML Badge">
+        <img src="https://img.shields.io/badge/-Django-edeef5?style=flat&logo=django&logoColor=092E20" alt="CSS Badge">
+        <img src="https://img.shields.io/badge/-Flask-edeef5?style=flat&logo=flask&logoColor=000000" alt="JavaScript Badge">
+    </br> 
+        <img src="https://img.shields.io/badge/-MySQL-edeef5?style=flat&logo=MySQL&logoColor=0d31b5" alt="HTML Badge">
+        <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="CSS Badge">
+        <img src="https://img.shields.io/badge/-MongoDB-edeef5?style=flat&logo=MongoDB&logoColor=10573c" alt="JavaScript Badge">
+    </br>
+        <img src="https://img.shields.io/badge/-Git-edeef5?style=flat&logo=git" alt="HTML Badge">
+        <img src="https://img.shields.io/badge/-GitHub-edeef5?style=flat&logo=github&logoColor=000000" alt="CSS Badge">
+        <img src="https://img.shields.io/badge/-Markdown-edeef5?style=flat&logo=markdown&logoColor=000000" alt="JavaScript Badge">
+        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-edeef5?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="JavaScript Badge">
+    </br>
+        <img src="https://img.shields.io/badge/-Figma-edeef5?style=flat&logo=Figma&logoColor=9a13d4" alt="HTML Badge">
+        <img src="https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12" alt="CSS Badge">
+        <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="JavaScript Badge">
+        <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="JavaScript Badge">
   </a> 
   <a style="flex: 50%; padding: 5px;" href="https://github.com/MarcoAraoz">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
