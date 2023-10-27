@@ -93,7 +93,7 @@ The more I train, the more
 
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<div>
+<p>
     <samp>
         <p style="justify-content: space-evenly;" align="center">
             <a href="https://github.com/MarcoAraoz">
@@ -134,7 +134,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a> 
         </p>
     </samp>
-</div>
+</p>
+</br>
+<p>
 <samp>
     <a style="flex: 50%; padding: 5px;" href="https://github.com/MartinHeinz/python-project-blueprint">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
@@ -143,6 +145,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
     </a>
 </samp>
+</p>
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
