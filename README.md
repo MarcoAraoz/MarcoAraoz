@@ -87,6 +87,7 @@ The more I train, the more
 
 
 <!-- ![HTML](https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5)&nbsp; -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -96,7 +97,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <samp>
         <p style="justify-content: space-evenly;" align="center">
             <a href="https://github.com/MarcoAraoz">
-                <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"
+                <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut-vertical&bg_color=edeef5"
                 />
             </a>
         </p>
@@ -135,18 +136,27 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </samp>
 </div>
 
-<!-- <div style="display: flex;">
+<div style="display: flex;">
   <div style="flex: 50%; padding: 5px;">
     <a href="https://github.com/MartinHeinz/python-project-blueprint">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
     </a>
   </div>
   <div style="flex: 50%; padding: 5px;">
     <a href="https://github.com/MartinHeinz/go-project-blueprint">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
     </a>
   </div>
-</div> -->
+</div>
+
+<div style="display: flex;">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+</div>
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
