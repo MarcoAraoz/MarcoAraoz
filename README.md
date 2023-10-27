@@ -99,6 +99,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 />
             </a>
         </div>
+    <samp>
         <div align="center"> 
             <a> 
                 <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
@@ -131,6 +132,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
             </a> 
         </div>
+    </samp>
 </div>
 <div style="display: flex;">
         <div>
