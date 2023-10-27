@@ -93,7 +93,7 @@ The more I train, the more
 
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<p>
+<div>
     <samp>
         <p style="justify-content: space-evenly;" align="center">
             <a href="https://github.com/MarcoAraoz">
@@ -101,7 +101,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 />
             </a>
         </p>
-        <p align="center"> 
+        <div align="center"> 
             <a> 
                 <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
@@ -132,9 +132,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="Adobe Photoshop Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
             </a> 
-        </p>
+        </div>
     </samp>
-</p>
+</div>
 </br>
 <p>
 <samp>
