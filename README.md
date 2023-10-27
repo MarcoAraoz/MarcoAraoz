@@ -92,7 +92,7 @@ The more I train, the more
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<div style="display: inline-block;">
+<div style="display: flex;">
     <samp>
         <div>
             <a href="https://github.com/MarcoAraoz">
