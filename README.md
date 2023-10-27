@@ -134,7 +134,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </samp>
 </div>
 
-<h1 align='center'>
+<h1 style="display: flex;" align='center'>
 The more I train, the more
 <br/>opportunities I have✨
 </h1>
