@@ -129,6 +129,12 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="Adobe Photoshop Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
             </a> 
+             </br>
+              </br>
+               </br>
+                </br>
+                 </br>
+                  </br>
         </div>
 </div>
 
