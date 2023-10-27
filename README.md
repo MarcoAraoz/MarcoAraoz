@@ -92,7 +92,7 @@ The more I train, the more
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<div>
+<div style="display: flex;">
     <samp>
         <div>
             <a href="https://github.com/MarcoAraoz">
@@ -101,7 +101,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </div>
         <div align="center"> 
-            <div> 
+            <a> 
                 <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-JavaScript-edeef5?style=flat&logo=javascript&logoColor=dbc202" alt="JavaScript Badge">&nbsp;
@@ -130,16 +130,18 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12" alt="Adobe Illustrator Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="Adobe Photoshop Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
-            </div> 
+            </a> 
         </div>
     </samp>
 </div>
+<div style="display: inline-block;">
             <a href="https://github.com/MartinHeinz/python-project-blueprint">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
             </a>
             <a href="https://github.com/MartinHeinz/go-project-blueprint">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
             </a>
+</div>
 
 <!--
 Here are some ideas to get you started:
