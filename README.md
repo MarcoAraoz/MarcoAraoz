@@ -135,27 +135,14 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         </p>
     </samp>
 </div>
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 5px;">
-    <a href="https://github.com/MartinHeinz/python-project-blueprint">
+<samp>
+    <a style="flex: 50%; padding: 5px;" href="https://github.com/MartinHeinz/python-project-blueprint">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
     </a>
-  </div>
-  <div style="flex: 50%; padding: 5px;">
-    <a href="https://github.com/MartinHeinz/go-project-blueprint">
+    <a style="flex: 50%; padding: 5px;"  href="https://github.com/MartinHeinz/go-project-blueprint">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
     </a>
-  </div>
-</div>
-
-<div style="display: flex;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-</div>
+</samp>
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
