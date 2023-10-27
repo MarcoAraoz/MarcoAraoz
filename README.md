@@ -88,11 +88,10 @@ The more I train, the more
 
 <!-- ![HTML](https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5)&nbsp; -->
 
-
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<div>
+<div style="display: flex;"> 
     <samp>
         <div>
             <a href="https://github.com/MarcoAraoz">
@@ -135,6 +134,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </samp>
 </div>
 
+<h1 align='center'>
+The more I train, the more
+<br/>opportunities I have✨
+</h1>
 ## 🛠 &nbsp;Tech Stack
 <div>
 <div>
