@@ -135,10 +135,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 </br>
                  </br>
                   </br>
-                  </br>
-                  </br>
-                  </br>
-                  </br>
         </div>
 </div>
 
