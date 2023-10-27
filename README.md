@@ -91,7 +91,7 @@ The more I train, the more
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<div> 
+<div style="display: flex;"> 
         <div>
             <a href="https://github.com/MarcoAraoz">
                 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut&bg_color=edeef5"
@@ -134,12 +134,14 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 ---
 ## 🛠 &nbsp;Tech Stack
+<div style="display: flex;">
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
 </a>
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
 </a>
+</div>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
