@@ -93,7 +93,6 @@ The more I train, the more
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
 <div style="display: flex;">
-    <samp>
         <div>
             <a href="https://github.com/MarcoAraoz">
                 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut-vertical&bg_color=edeef5"
@@ -132,7 +131,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
             </a> 
         </div>
-    </samp>
 </div>
 <div style="display: flex;">
         <div>
