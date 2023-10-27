@@ -136,17 +136,12 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 
 ## 🛠 &nbsp;Tech Stack
-<p>
-            <a href="https://github.com/MartinHeinz/python-project-blueprint">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
-            </a>
-            </p>
-            <div>
-            <a href="https://github.com/MartinHeinz/go-project-blueprint">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
-            </a>
-            </div>    
-</p>
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
+</a>
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
+</a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
