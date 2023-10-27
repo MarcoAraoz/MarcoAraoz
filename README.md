@@ -134,7 +134,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </samp>
 </div>
 
-
+---
 ## 🛠 &nbsp;Tech Stack
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
