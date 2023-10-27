@@ -91,7 +91,7 @@ The more I train, the more
 ## 🛠 &nbsp;Tech Stack
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<div style="display: flex; flex-wrap: wrap; justify-content: left; align-items: left;"> 
+<div style="flex-wrap: wrap;"> 
         <div>
             <a href="https://github.com/MarcoAraoz">
                 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut&bg_color=edeef5"
