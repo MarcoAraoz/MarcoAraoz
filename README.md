@@ -134,6 +134,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         </div>
     </samp>
 </div>
+
+## 🛠 &nbsp;Tech Stack
 <div style="display: inline-flex;">
 <div>
             <a href="https://github.com/MartinHeinz/python-project-blueprint">
