@@ -94,7 +94,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <div> 
         <div>
             <a href="https://github.com/MarcoAraoz">
-                <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut&bg_color=edeef5"
+                <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut-vertical&bg_color=edeef5"
                 />
             </a>
         </div>
@@ -138,19 +138,18 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         </div>
 </div>
 
----
-
 ## 🛠 &nbsp;Tech Stack
-<samp>
 <div style="display: flex;">
+<div></div>
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
 </a>
+<div>
+</div>
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
 </a>
 </div>
-</samp>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
