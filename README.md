@@ -133,7 +133,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a> 
         </div>
     </samp>
-    <div style="display: flex;">
+    <div>
         <div>
             <a style="flex: 50%; padding: 5px;" href="https://github.com/MartinHeinz/python-project-blueprint">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
