@@ -143,8 +143,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <a style="padding: 10px; margin: 5px;" href="https://github.com/MartinHeinz/python-project-blueprint">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
 </a>
-&nbsp;
-&nbsp;
+ </br>
+                </br>
+                 </br>
+                  </br>
 <a style="padding: 10px; margin: 5px;" href="https://github.com/MartinHeinz/go-project-blueprint">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
 </a>
