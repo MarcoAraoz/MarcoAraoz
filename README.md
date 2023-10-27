@@ -93,7 +93,7 @@ The more I train, the more
 
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 
-<div style="display: flex;">
+<div>
     <samp>
         <p style="justify-content: space-evenly;" align="center">
             <a href="https://github.com/MarcoAraoz">
@@ -135,7 +135,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         </p>
     </samp>
 </div>
-
 <div style="display: flex;">
   <div style="flex: 50%; padding: 5px;">
     <a href="https://github.com/MartinHeinz/python-project-blueprint">
