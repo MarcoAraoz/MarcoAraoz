@@ -133,7 +133,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <table>
         <tr>
             <td style="max-width: 50%;">
-                <h3 align="center">Open Finance Interface Design</h3>
+                <h2 align="center">Open Finance Interface Design</h2>
+                <h3 align="center">January-February-March</h3>
                 <div align="center">
                     <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="Curso básico android"></a>
                     <p>
@@ -149,7 +150,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </td>
             <td style="max-width: 50%;">
                 <br>
-                <h3 align="center">MongoDB</h3>
+                <h2 align="center">MongoDB</h2>
+                <h3 align="center">June-July</h3>
                 <div align="center">
                     <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
@@ -165,6 +167,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     </p>
                 </div>
             </td>
+        </tr>
     </table>
 </div>
 <br>
@@ -173,7 +176,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <table>
         <tr>
             <td style="max-width: 50%;">
-                <h3 align="center">Open Finance Interface Design</h3>
+                <h3 align="center">AWS</h3>
+                <h3 align="center">October-November-Dicember</h3>
                 <div align="center">
                     <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="Curso básico android"></a>
                     <p>
@@ -204,6 +208,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
                     </p>
                 </div>
+            </td>
+        </tr>
     </table>
 </div>
 <br>
