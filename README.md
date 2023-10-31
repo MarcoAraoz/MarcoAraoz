@@ -39,11 +39,11 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 <div style="display: flex;"> 
         <div>
-            <a href="https://github.com/MarcoAraoz">
+            <a href="https://github.com/MarcoAraoz/github-readme-stats">
                 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut&bg_color=edeef5"
                 />
             </a>
-        </div>
+        </div>        
         <div align="center"> 
         </br>
             <a> 
