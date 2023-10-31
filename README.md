@@ -147,9 +147,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </td>
 <td width="50%">
 <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">MongoDB</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
