@@ -108,43 +108,45 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <p>asdasd</p>
     <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 50%; height: auto; transition: transform 0.3s ease-in-out;">
 </div> -->
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">Hackaton BBVA</h3>
-<div align="center">
-<a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>              
-</td>                                                    
-</table>            
+<div>
+    <table>
+    <tr>
+        <td width="100%">
+            <h3 align="center">Hackaton BBVA</h3>
+            <div align="center">
+                <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="Curso intermedio Android"></a>
+                <p>
+                    <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
+                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                    </a>
+                    <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+                    </a>
+                </p>
+                <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+            </div>              
+        </td>
+    </tr>                                                   
+    </table>            
 </div>
 <br>
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Open Finance Interface Design</h3>
-<div align="center">
-<a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>            
-</td>
+    <td width="50%">
+    <h3 align="center">Open Finance Interface Design</h3>
+    <div align="center">
+    <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="Curso básico android"></a>
+    <p>
+    <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+    </a>
+    <a href="https://youtu.be/vJapzH_46a8" target="_blank">
+    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+    </a>
+    </p>
+    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+    </div>            
+    </td>
 <td width="50%">
 <br>
 <h3 align="center">MongoDB</h3>
