@@ -112,11 +112,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <table>
     <tr>
         <td width="100%">
-            <h2 align="center">Hackaton BBVA</h2>
-            <h3 align="center">May</h3>
-            </br>
+            <h2 align="center">Hackaton BBVA (May)</h2>
             <div align="center">
                 <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="BBVA"></a>
+                </br>
                 </br>
                 <p>
                     <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
