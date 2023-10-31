@@ -100,21 +100,21 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 <!-- ![Alt text](try_1.gif) -->
 
-<div style="display: inline-block; max-width: 50%; overflow: hidden;">
+<!-- <div style="display: inline-block; max-width: 50%; overflow: hidden;">
     <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 50%; height: auto; transition: transform 0.3s ease-in-out;">
     <p>asdasd</p>
 </div>
 <div style="display: inline-block; max-width: 50%; overflow: hidden;">
     <p>asdasd</p>
     <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 50%; height: auto; transition: transform 0.3s ease-in-out;">
-</div>
+</div> -->
 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="try_1.gif" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
