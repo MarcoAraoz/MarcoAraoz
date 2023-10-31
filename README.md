@@ -112,10 +112,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <div>
     <table>
         <tr>
-            <td style="max-width: 50%;" width="40%">
+            <td style="max-width: 50%;">
                 <h3 align="center">AWS</h3>
                 <h3 align="center">October-November-Dicember</h3>
-                <div align="center">
+                <div width="98%" align="center">
                     <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="Curso básico android"></a>
                     <p>
                     <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
@@ -128,10 +128,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
                 </div>            
             </td>
-            <td style="max-width: 50%;" width="40%">
+            <td style="max-width: 50%;">
                 <br>
                 <h3 align="center">MongoDB</h3>
-                <div align="center">
+                <div width="98%" align="center">
                     <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
                     <p>
