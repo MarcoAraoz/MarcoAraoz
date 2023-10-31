@@ -153,7 +153,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <div>
     <table>
     <tr>
-        <td width="100%">
+        <td width="98%">
             <h2 align="center">Hackaton BBVA (May)</h2>
             <div align="center">
                 <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="BBVA"></a>
@@ -179,6 +179,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="OF"></a>
                     <br>
                     <p>
+                    <br>
                     <!-- <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
                     <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
