@@ -174,7 +174,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <table>
         <tr>
             <td style="max-width: 50%;">
-            </br>
                 <h2 align="center">OpenFinance UI (Jan-Feb-March)</h2>
                 <div align="center">
                     <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="OF"></a>
