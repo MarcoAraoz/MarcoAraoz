@@ -101,12 +101,12 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <!-- ![Alt text](try_1.gif) -->
 
 <div style="display: inline-block; max-width: 50%; overflow: hidden;">
-    <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 100%; height: auto; transition: transform 0.3s ease-in-out;">
+    <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 50%; height: auto; transition: transform 0.3s ease-in-out;">
     <p>asdasd</p>
 </div>
 <div style="display: inline-block; max-width: 50%; overflow: hidden;">
     <p>asdasd</p>
-    <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 100%; height: auto; transition: transform 0.3s ease-in-out;">
+    <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 50%; height: auto; transition: transform 0.3s ease-in-out;">
 </div>
 
 <table>
