@@ -192,11 +192,11 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <td style="max-width: 50%;">
                 <br>
                 <h2 align="center">MongoDB (June)</h2>
-                <br>
                 <div align="center">
                     <a href="https://learn.mongodb.com/" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
                     <p>
+                    <br>
                     <!-- <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
                     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
                     </a>
@@ -204,6 +204,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
                     </a> -->
                     </p>
+                    <br>
                     </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
                     </p>
                 </div>
