@@ -112,15 +112,15 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <table>
     <tr>
         <td width="100%">
-            <h3 align="center">Hackaton BBVA</h3>
+            <h2 align="center">Hackaton BBVA</h2>
+            <h3 align="center">May</h3>
+            </br>
             <div align="center">
-                <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="Curso intermedio Android"></a>
+                <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="BBVA"></a>
+                </br>
                 <p>
                     <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
-                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-                    </a>
-                    <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+                    <img src="https://img.shields.io/badge/-GitHub Code-edeef5?style=flat&logo=GitHub&logoColor=000000" alt="Github Badge">&nbsp;
                     </a>
                 </p>
                 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
@@ -153,7 +153,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <h2 align="center">MongoDB</h2>
                 <h3 align="center">June-July</h3>
                 <div align="center">
-                    <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
+                    <a href="https://learn.mongodb.com/" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
                     <p>
                     <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
