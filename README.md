@@ -179,7 +179,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="OF"></a>
                     <br>
                     <p>
-                    <br>
                     <!-- <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
                     <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                     </a>
