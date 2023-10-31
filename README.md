@@ -112,7 +112,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <div>
     <table>
         <tr>
-            <td style="max-width: 48%;">
+            <td style="max-width: 50%;" width="40%">
                 <h3 align="center">AWS</h3>
                 <h3 align="center">October-November-Dicember</h3>
                 <div align="center">
@@ -128,7 +128,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
                 </div>            
             </td>
-            <td style="max-width: 48%;">
+            <td style="max-width: 50%;" width="40%">
                 <br>
                 <h3 align="center">MongoDB</h3>
                 <div align="center">
@@ -153,7 +153,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <div>
     <table>
     <tr>
-        <td width="98%">
+        <td width="100%">
             <h2 align="center">Hackaton BBVA (May)</h2>
             <div align="center">
                 <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="BBVA"></a>
@@ -173,7 +173,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <div>
     <table>
         <tr>
-            <td style="max-width: 48%;">
+            <td style="max-width: 50%;">
                 <h2 align="center">OpenFinance UI (Jan-Feb-March)</h2>
                 <div align="center">
                     <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="OF"></a>
@@ -190,7 +190,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
                 </div>            
             </td>
-            <td style="max-width: 48%;">
+            <td style="max-width: 50%;">
                 <br>
                 <h2 align="center">MongoDB (June)</h2>
                 <div align="center">
