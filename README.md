@@ -108,68 +108,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <p>asdasd</p>
     <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 50%; height: auto; transition: transform 0.3s ease-in-out;">
 </div> -->
-<div>
-    <table>
-    <tr>
-        <td width="100%">
-            <h2 align="center">Hackaton BBVA (May)</h2>
-            <div align="center">
-                <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="BBVA"></a>
-                </br>
-                </br>
-                <p>
-                    <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
-                    <img src="https://img.shields.io/badge/-GitHub Code-edeef5?style=flat&logo=GitHub&logoColor=000000" alt="Github Badge">&nbsp;
-                    </a>
-                </p>
-                <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-            </div>              
-        </td>                                                   
-    </table>            
-</div>
-<br>
-<div>
-    <table>
-        <tr>
-            <td style="max-width: 50%;">
-                <h2 align="center">Open Finance Interface Design</h2>
-                <h3 align="center">January-February-March</h3>
-                <div align="center">
-                    <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="Curso básico android"></a>
-                    <p>
-                    <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-                    </a>
-                    <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-                    </a>
-                    </p>
-                    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-                </div>            
-            </td>
-            <td style="max-width: 50%;">
-                <br>
-                <h2 align="center">MongoDB</h2>
-                <h3 align="center">June-July</h3>
-                <div align="center">
-                    <a href="https://learn.mongodb.com/" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
-                    <br>
-                    <p>
-                    <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-                    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-                    </a>
-                    <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-                    </a>
-                    </p>
-                    </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
-                    </p>
-                </div>
-            </td>
-        </tr>
-    </table>
-</div>
-<br>
 <br>
 <div>
     <table>
@@ -212,6 +150,68 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </table>
 </div>
 <br>
+<div>
+    <table>
+    <tr>
+        <td width="100%">
+            <h2 align="center">Hackaton BBVA (May)</h2>
+            <div align="center">
+                <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="BBVA"></a>
+                </br>
+                </br>
+                <p>
+                    <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
+                    <img src="https://img.shields.io/badge/-GitHub Code-edeef5?style=flat&logo=GitHub&logoColor=000000" alt="Github Badge">&nbsp;
+                    </a>
+                </p>
+                <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+            </div>              
+        </td>                                                   
+    </table>            
+</div>
+<br>
+<div>
+    <table>
+        <tr>
+            <td style="max-width: 50%;">
+                <h2 align="center">Open Finance Interface Design (January-February-March)</h2>
+                <h3 align="center"></h3>
+                <div align="center">
+                    <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/01_jan_2023_OF_10.gif" width="400" alt="Curso básico android"></a>
+                    <p>
+                    <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                    </a>
+                    <a href="https://youtu.be/vJapzH_46a8" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+                    </a>
+                    </p>
+                    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+                </div>            
+            </td>
+            <td style="max-width: 50%;">
+                <br>
+                <h2 align="center">MongoDB (June)</h2>
+                <div align="center">
+                    <a href="https://learn.mongodb.com/" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
+                    <br>
+                    <p>
+                    <!-- <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+                    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+                    </a>
+                    <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+                    </a> -->
+                    </p>
+                    </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
+                    </p>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<br>
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
