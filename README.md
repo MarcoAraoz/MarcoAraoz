@@ -165,7 +165,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     </p>
                 </div>
             </td>
-        </tr>
     </table>
 </div>
 <br>
@@ -205,8 +204,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
                     </p>
                 </div>
-            </td>
-        </tr>
     </table>
 </div>
 <br>
