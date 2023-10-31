@@ -113,9 +113,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <td width="100%">
 <h3 align="center">Hackaton BBVA</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="Curso intermedio Android"></a>
+<a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
@@ -133,7 +133,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="try_1.gif" width="400" alt="Curso básico android"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="MyYearCode/01_jan_2023_OF_00.gif" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
