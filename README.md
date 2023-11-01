@@ -115,7 +115,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <td style="max-width: 50%;">
                 <h2 align="center">asfsaf</h2>
                 <div align="center">
-                    <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img src="MyYearCode/09_sep_2023_AWS_10.gif" width="400" alt="OF"></a>
+                    <a href="https://eventsopenfinance2020.web.app/" target="_blank"><img style="width: 90%; height: auto;" src="MyYearCode/09_sep_2023_AWS_10.gif" width="400" alt="OF"></a>
                     <br>
                     <p>
                     <br>
