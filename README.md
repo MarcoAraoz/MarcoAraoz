@@ -124,7 +124,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
                     </a> -->
                     </p>
-                    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+                    <p><strong>AWS Academy Cloud Foundations</strong> is aimed at students and professionals seeking a general understanding of cloud computing concepts.<strong></strong>
+                    </p>
                 </div>            
             </td>
             <td style="max-width: 50%;">
