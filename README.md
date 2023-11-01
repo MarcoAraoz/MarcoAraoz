@@ -117,12 +117,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <div align="center">
                     <a href="https://aprender.plai.mx/programa/AWS%20CLOUD%20FOUNDATIONS%203A049-001/240/" target="_blank"><img src="MyYearCode/09_sep_2023_AWS_00.gif" width="400" alt="AWS"></a>
                     <p>
-                    <!-- <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-                    </a>
-                    <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-                    </a> -->
                     </p>
                     <p><strong>AWS Academy Cloud Foundations</strong> is aimed at students and professionals seeking a general understanding of cloud computing concepts.<strong></strong>
                     </p>
@@ -130,17 +124,11 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </td>
             <td style="max-width: 50%;">
                 <br>
-                <h3 align="center">MongoDB</h3>
+                <h2 align="center">MongoDB</h2>
                 <div align="center">
                     <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
                     <p>
-                    <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-                    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-                    </a>
-                    <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-                    </a>
                     </p>
                     </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
                     </p>
@@ -180,12 +168,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <br>
                     <p>
                     <br>
-                    <!-- <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-                    </a>
-                    <a href="https://youtu.be/vJapzH_46a8" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-                    </a> -->
                     </p>
                     <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
                 </div>            
@@ -198,12 +180,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <br>
                     <p>
                     <br>
-                    <!-- <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-                    <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-                    </a>
-                    <a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-                    <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-                    </a> -->
                     </p>
                     </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
                     </p>
