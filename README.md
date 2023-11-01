@@ -115,7 +115,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <td style="max-width: 50%;">
                 <h2 align="center">AWS (Oct-Nov-Dec)</h2>
                 <div align="center">
-                    <a href="https://aprender.plai.mx/programa/AWS%20CLOUD%20FOUNDATIONS%203A049-001/240/" target="_blank"><img src="MyYearCode/09_sep_2023_AWS_00.gif" width="400" alt="AWS"></a>
+                    <a href="https://aprender.plai.mx/programa/AWS%20CLOUD%20FOUNDATIONS%203A049-001/240/" target="_blank"><img src="MyYearCode/09_sep_2023_AWS_10.gif" width="400" alt="AWS"></a>
                     <p>
                     </p>
                     <p><strong>AWS Academy Cloud Foundations</strong> is aimed at students and professionals seeking a general understanding of cloud computing concepts.<strong></strong>
