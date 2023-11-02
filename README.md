@@ -118,13 +118,14 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <a href="https://aprender.plai.mx/programa/AWS%20CLOUD%20FOUNDATIONS%203A049-001/240/" target="_blank"><img style="width: 85%; height: auto;" src="MyYearCode/09_sep_2023_AWS_10.gif" width="400" alt="AWS"></a>
                     <p>
                     </p>
-                    <p><strong>AWS Academy Cloud Foundations</strong> is aimed at students and professionals seeking a general understanding of cloud computing concepts.<strong></strong>
+                    <p><strong>AWS Academy Cloud Foundations</strong> is aimed at students and professionals seeking a general understanding of cloud computing concepts.</br>
+                    <strong>Currently enrolled in the course</strong>
                     </p>
                 </div>            
             </td>
             <td style="max-width: 50%;">
                 <br>
-                <h2 align="center">MongoDB</h2>
+                <h2 align="center">Next</h2>
                 <div align="center">
                     <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
@@ -152,7 +153,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <img src="https://img.shields.io/badge/-GitHub Code-edeef5?style=flat&logo=GitHub&logoColor=000000" alt="Github Badge">&nbsp;
                     </a>
                 </p>
-                <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+                <p>Recruitment Hackathon: last test of the process (in person in CDMX) to join the technological core of BBVA Mexico in areas <strong>focused on devising, developing and promoting cutting-edge digital products and services</strong>, working with agile methodologies, making the bank more accessible to the customer.</br>
+                <strong>#1 First place team.</strong> 
+                </p>
             </div>              
         </td>                                                   
     </table>            
@@ -169,7 +172,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <p>
                     <br>
                     </p>
-                    <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+                    <p>Open Finance Platform provides a digital environment for users to interact with decision makers of the most recognized companies worldwide.</br>
+                    <strong>Last quarter working on Frontend development, as well as database error handling and code refactoring (2022-2023).</strong>
+                    </p>
                 </div>            
             </td>
             <td style="max-width: 50%;">
