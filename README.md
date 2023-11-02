@@ -128,13 +128,14 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </td>
             <td style="max-width: 50%;">
                 <br>
-                <h2 align="center">Next</h2>
+                <h2 align="center">Symposium on the Philosophy of Computing</h2>
                 <div align="center">
-                    <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="MyYearCode/06_jun_2023_MongoDB_00.gif" width="400" alt="Curso arquitectura MVVM"></a>
+                    <a href="https://philcomp.org/home" target="_blank"><img src="MyYearCode/12_nov_2023_unam_10.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
                     <p>
                     </p>
-                    </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
+                    </p>This symposium, the first of its kind in Latin America, aims to establish a necessary locus for the study of philosophical problems related to computing in all its dimensions.</br>
+                    <strong>On-site assistance</strong>
                     </p>
                 </div>
             </td>
