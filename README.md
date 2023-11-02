@@ -190,6 +190,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <br>
                     </p>
                     </p><strong>Incorporation of the use of non-relational databases into my programming stack. </strong>Understanding data management using MongoDB requests.
+                    </br>
+                    </br>
+                    </br>
+                    </br>
                     </p>
                 </div>
             </td>
