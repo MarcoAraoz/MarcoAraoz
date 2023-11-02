@@ -127,8 +127,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 </div>            
             </td>
             <td style="max-width: 50%;">
-                <br>
-                <h2 align="center">Symposium on the Philosophy of Computing (nov)</h2>
+                <h2 align="center">Symposium on the Philosophy of Computing (Nov)</h2>
                 <div align="center">
                     <a href="https://philcomp.org/home" target="_blank"><img src="MyYearCode/12_nov_2023_unam_10.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
