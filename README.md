@@ -75,6 +75,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12" alt="Adobe Illustrator Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="Adobe Photoshop Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
+            </br>
+                <img src="https://img.shields.io/badge/-COLAB-edeef5?style=flat&logo=googlecolab" alt="Figma Badge">&nbsp;
+                <img src="https://img.shields.io/badge/-OpenAI-edeef5?style=flat&logo=openai&logoColor=000000" alt="Figma Badge">&nbsp;
             </a> 
              </br>
               </br>
@@ -186,7 +189,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <p>
                     <br>
                     </p>
-                    </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.
+                    </p><strong>Incorporation of the use of non-relational databases into my programming stack. </strong>Understanding data management using MongoDB requests.
                     </p>
                 </div>
             </td>
