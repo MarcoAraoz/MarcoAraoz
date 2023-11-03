@@ -150,7 +150,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 <br>
 <div>
-    <table border width="100%">
+    <table width="100%">
         <tr>
             <td width=50%;>
                 <h2 align="center">Amazon Web Services Cloud Foundations (Oct-Nov-Dec)</h2>
