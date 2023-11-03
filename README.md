@@ -150,7 +150,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 <br>
 <div>
-    <table border=0 width="100%">
+    <table border=0 width="100%" frame="hsides" rules="none">
         <tr>
             <td border=0 width=50%;>
                 <h2 align="center">Amazon Web Services Cloud Foundations (Oct-Nov-Dec)</h2>
@@ -180,7 +180,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </div>
 <br>
 <div>
-    <table>
+    <table frame="hsides" rules="none">
     <tr>
         <td border=0 width="100%">
             <h2 align="center">Hackaton BBVA (May)</h2>
@@ -202,7 +202,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </div>
 <br>
 <div>
-    <table>
+    <table frame="hsides" rules="none">
         <tr>
             <td style="max-width: 50%;">
                 <h2 align="center">OpenFinance UI (Jan-Feb-March)</h2>
