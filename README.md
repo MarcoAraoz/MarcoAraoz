@@ -34,8 +34,11 @@ The more I train, the more
 
 <!-- ![HTML](https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5)&nbsp; -->
 
-## 🚀 &nbsp;Tech Stack
+## 🚀 &nbsp;Some of the technologies I've worked with
+
+<h3 align='center'>
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
+</h3>
 
 <div style="display: flex;"> 
         <div>
@@ -47,35 +50,42 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         <div align="center"> 
         </br>
             <a> 
+            <!-- html, css, js -->
                 <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-JavaScript-edeef5?style=flat&logo=javascript&logoColor=dbc202" alt="JavaScript Badge">&nbsp;
             </br>
+            <!-- React, Node, Ts, Redux Axios -->
                 <img src="https://img.shields.io/badge/-React-edeef5?style=flat&logo=react&logoColor=1ca4e8" alt="React Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Node.js-edeef5?style=flat&logo=node.js" alt="NodeJS Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-TypeScript-edeef5?style=flat&logo=TypeScript" alt="TypeScript Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Redux-edeef5?style=flat&logo=Redux&logoColor=680194" alt="Redux Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Axios-edeef5?style=flat&logo=Axios&logoColor=680194" alt="Axios Badge">&nbsp;
             </br>
+            <!-- Python, Django, Flask-->
                 <img src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Django-edeef5?style=flat&logo=django&logoColor=092E20" alt="Django Badge">&nbsp;
-                <img src="https://img.shields.io/badge/-Flask-edeef5?style=flat&logo=flask&logoColor=000000" alt="Flask Badge">&nbsp;
+                <!-- <img src="https://img.shields.io/badge/-Flask-edeef5?style=flat&logo=flask&logoColor=000000" alt="Flask Badge">&nbsp; -->
             </br>
+            <!-- MySQL, PostgreSQL, MongoDB -->
                 <img src="https://img.shields.io/badge/-MySQL-edeef5?style=flat&logo=MySQL&logoColor=0d31b5" alt="MySQL Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="PostgreSQL Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-MongoDB-edeef5?style=flat&logo=MongoDB&logoColor=10573c" alt="MongoDB Badge">&nbsp;
                 <img src="https://img.shields.io/badge/AWS-edeef5?style=flat&logo=AmazonAWS&logoColor=000000" alt="Amazon AWS Badge">&nbsp;
             </br>
+            <!-- Git, Github, Md, Postman -->
                 <img src="https://img.shields.io/badge/-Git-edeef5?style=flat&logo=git" alt="HTML Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-GitHub-edeef5?style=flat&logo=github&logoColor=000000" alt="CSS Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Markdown-edeef5?style=flat&logo=markdown&logoColor=000000" alt="JavaScript Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Postman-edeef5?style=flat&logo=Postman" alt="JavaScript Badge">&nbsp;
             </br>
+            <!-- Figma, Il, Ph, In, -->
                 <img src="https://img.shields.io/badge/-Figma-edeef5?style=flat&logo=Figma&logoColor=9a13d4" alt="Figma Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12" alt="Adobe Illustrator Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="Adobe Photoshop Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
             </br>
+            <!-- Google Colab, Open AI -->
                 <img src="https://img.shields.io/badge/-COLAB-edeef5?style=flat&logo=googlecolab" alt="Figma Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-OpenAI-edeef5?style=flat&logo=openai&logoColor=000000" alt="Figma Badge">&nbsp;
             </a> 
@@ -97,20 +107,59 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <a style="padding: 10px; margin: 5px;" href="https://github.com/MartinHeinz/go-project-blueprint">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&bg_color=edeef5" />
 </a> -->
+## 🔥 &nbsp;My next Sprints
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <!-- <td><b>🤝 Forks</b></td> -->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>
+            <p>lascmaslvklsaaslas lkskmsalkmacskmLaTeX-Gboard-Dictionary asdvadbd asdascasc aasvasvasvasac ascasc ascasc ascasc asc ascascasc ascasc ascasc ascascascasc asascasc ascasc ascasca
+            </p>
+             <img src="https://img.shields.io/badge/-Figma-edeef5?style=flat&logo=Figma&logoColor=9a13d4" alt="Figma Badge">&nbsp;
+                <img src="https://img.shields.io/badge/-Illustrator-edeef5?style=flat&logo=adobe-illustrator&logoColor=c45c12" alt="Adobe Illustrator Badge">&nbsp;
+                <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="Adobe Photoshop Badge">&nbsp;
+                <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
+        </td>
+        <td>
+            <a style="padding: 10px; margin: 5px;" href="https://github.com/MartinHeinz/python-project-blueprint">
+            <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
+            </a>
+        </td>
+      <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
+     <tr>
+      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+      <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+      <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <!-- <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
+  </tbody>
+</table>
 
 ## 📅&nbsp;My Code Year
 ![Alt text](image.png)
 
-<!-- ![Alt text](try_1.gif) -->
-
-<!-- <div style="display: inline-block; max-width: 50%; overflow: hidden;">
-    <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 50%; height: auto; transition: transform 0.3s ease-in-out;">
-    <p>asdasd</p>
-</div>
-<div style="display: inline-block; max-width: 50%; overflow: hidden;">
-    <p>asdasd</p>
-    <img align="center" src="try_1.gif" alt="franalarcon_n" style="width: 50%; height: auto; transition: transform 0.3s ease-in-out;">
-</div> -->
 <br>
 <div>
     <table>
