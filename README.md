@@ -150,9 +150,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 <br>
 <div>
-    <table border width="90%">
+    <table border='0' width="100%">
         <tr>
-            <td width=50%;>
+            <td border='0' width=50%;>
                 <h2 align="center">Amazon Web Services Cloud Foundations (Oct-Nov-Dec)</h2>
                 <div align="center">
                     <a href="https://aprender.plai.mx/programa/AWS%20CLOUD%20FOUNDATIONS%203A049-001/240/" target="_blank"><img style="width: 85%; height: auto;" src="MyYearCode/09_sep_2023_AWS_10.gif" width="400" alt="AWS"></a>
@@ -182,7 +182,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <div>
     <table>
     <tr>
-        <td width="100%">
+        <td border='0' width="100%">
             <h2 align="center">Hackaton BBVA (May)</h2>
             <div align="center">
                 <a href="https://www.grupociadetalentos.com/bbva-bit/" target="_blank"><img src="MyYearCode/05_may_2023_hackatonBBVA.JPG" width="400" alt="BBVA"></a>
