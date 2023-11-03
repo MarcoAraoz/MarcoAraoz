@@ -164,7 +164,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <div>
     <table>
         <tr>
-            <td style="max-width: 50%;">
+            <td width=50%;>
                 <h2 align="center">Amazon Web Services Cloud Foundations (Oct-Nov-Dec)</h2>
                 <div align="center">
                     <a href="https://aprender.plai.mx/programa/AWS%20CLOUD%20FOUNDATIONS%203A049-001/240/" target="_blank"><img style="width: 85%; height: auto;" src="MyYearCode/09_sep_2023_AWS_10.gif" width="400" alt="AWS"></a>
@@ -175,7 +175,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     </p>
                 </div>            
             </td>
-            <td style="max-width: 50%;">
+            <td width=50%;>
                 <h2 align="center">Symposium on the Philosophy of Computing (Nov)</h2>
                 <div align="center">
                     <a href="https://philcomp.org/home" target="_blank"><img src="MyYearCode/12_nov_2023_unam_10.gif" width="400" alt="Curso arquitectura MVVM"></a>
