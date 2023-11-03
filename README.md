@@ -119,7 +119,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
   </thead>
   <tbody>
     <tr>
-        <td>
+        <td width=60%;>
             <p>lascmaslvklsaaslas lkskmsalkmacskmLaTeX-Gboard-Dictionary asdvadbd asdascasc aasvasvasvasac ascasc ascasc ascasc asc ascascasc ascasc ascasc ascascascasc asascasc ascasc ascasca
             </p>
              <img src="https://img.shields.io/badge/-Figma-edeef5?style=flat&logo=Figma&logoColor=9a13d4" alt="Figma Badge">&nbsp;
@@ -127,7 +127,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 <img src="https://img.shields.io/badge/-Photoshop-edeef5?style=flat&logo=adobe-photoshop&logoColor=0e8ac9" alt="Adobe Photoshop Badge">&nbsp;
                 <img src="https://img.shields.io/badge/-InDesign-edeef5?style=flat&logo=adobe-indesign&logoColor=e60e55" alt="Adobe InDesign Badge">&nbsp;
         </td>
-        <td>
+        <td width=40%;>
             <a style="padding: 10px; margin: 5px;" href="https://github.com/MartinHeinz/python-project-blueprint">
             <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
             </a>
