@@ -184,7 +184,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </div>
 <br>
 <div>
-    <table style='border: none' width="100%">
+    <table style='border: none;' width="100%">
         <tr>
             <td style="max-width: 50%;">
                 <h2 align="center">OpenFinance UI (Jan-Feb-March)</h2>
