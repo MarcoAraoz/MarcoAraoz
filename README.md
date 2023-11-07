@@ -28,7 +28,9 @@ The more I train, the more
 
 <!-- My currently work stack -->
 
-- 🌱 I’m currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
+- 🌱📚 Currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
+- 🌱💻 I use the **MERN programming stack** to develop front-end, back-end and server infrastructure for web applications.
+
 
 <!-- ### Currently working with -->
 
@@ -98,7 +100,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 ## 🔥 &nbsp;My Sprints
 
-<table>
+<table style="border: none;">
   <thead align="center">
   
   </thead>
@@ -182,7 +184,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </div>
 <br>
 <div>
-    <table border=0 width="100%">
+    <table style="border: none;" width="100%">
         <tr>
             <td style="max-width: 50%;">
                 <h2 align="center">OpenFinance UI (Jan-Feb-March)</h2>
