@@ -100,13 +100,13 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 ## 🔥 &nbsp;My Sprints
 
-<table style="border: none;">
+<table>
   <thead align="center">
   
   </thead>
   <tbody>
-    <tr style="border: none;">
-        <td style="border: none;" width=60%;>
+    <tr>
+        <td width=60%;>
             <p>
             <strong>Python documentation review:</strong>
             exercises and notes to review Python syntax (Basic)
@@ -184,7 +184,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </div>
 <br>
 <div>
-    <table style="border: none;" width="100%">
+    <table border= none width="100%">
         <tr>
             <td style="max-width: 50%;">
                 <h2 align="center">OpenFinance UI (Jan-Feb-March)</h2>
