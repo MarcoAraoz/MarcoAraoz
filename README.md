@@ -28,8 +28,8 @@ The more I train, the more
 
 <!-- My currently work stack -->
 
-- 🌱📚 Currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
-- 🌱💻 I use the **MERN programming stack** to develop front-end, back-end and server infrastructure for web applications.
+- 🌱 Currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
+- 💻 I use the **MERN programming stack** to develop front-end, back-end and server infrastructure for web applications.
 
 
 <!-- ### Currently working with -->
@@ -106,7 +106,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
   </thead>
   <tbody>
     <tr>
-        <td width=60%;>
+        <td width=50%;>
             <p>
             <strong>Python documentation review:</strong>
             exercises and notes to review Python syntax (Basic)
@@ -118,9 +118,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
             </a>
         </td>
-        <td width=40%;>
-            <a style="padding: 10px; margin: 5px;" href="https://github.com/MartinHeinz/python-project-blueprint">
-            <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&bg_color=edeef5" />
+        <td width=50%;>
+            <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/pythonstudy">
+            <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=pythonstudy&bg_color=edeef5" />
             </a>
         </td>
     </tr>
