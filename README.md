@@ -105,8 +105,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
   
   </thead>
   <tbody>
-    <tr>
-        <td width=60%;>
+    <tr style="border: none;">
+        <td style="border: none;" width=60%;>
             <p>
             <strong>Python documentation review:</strong>
             exercises and notes to review Python syntax (Basic)
