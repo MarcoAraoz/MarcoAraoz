@@ -127,8 +127,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <tr>
         <td width=50%;>
             <p>
-            <strong>MySQL with Django:</strong>
-            exercises and notes to review Python syntax (Basic)
+            <strong>PostgreSQL in Django:</strong>
+            Make a database change to scale and optimize the needs of applications.
             </p>
             <a href='#-my-sprints'>
             <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
@@ -137,15 +137,15 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <img disabled src="https://img.shields.io/badge/-Django-edeef5?style=flat&logo=django&logoColor=092E20" alt="Django Badge">&nbsp;
             </a>
             <a disabled href='#-my-sprints'>
-            <img disabled src="https://img.shields.io/badge/-MySQL-edeef5?style=flat&logo=MySQL&logoColor=0d31b5" alt="MySQL Badge">&nbsp;
+            <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="PostgreSQL Badge">&nbsp;
             </a>
-            <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
+            <!-- <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
             <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
-            </a>
+            </a> -->
         </td>
         <td width=50%;>
-            <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/pythonstudy">
-            <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=pythonstudy&bg_color=edeef5" />
+            <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/postgreSQL_in_Django">
+            <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=postgreSQL_in_Django&bg_color=edeef5" />
             </a>
         </td>
     </tr>
