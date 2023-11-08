@@ -124,6 +124,31 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </td>
     </tr>
+    <tr>
+        <td width=50%;>
+            <p>
+            <strong>MySQL with Django:</strong>
+            exercises and notes to review Python syntax (Basic)
+            </p>
+            <a href='#-my-sprints'>
+            <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
+            </a>
+            <a href='#-my-sprints'>
+            <img disabled src="https://img.shields.io/badge/-Django-edeef5?style=flat&logo=django&logoColor=092E20" alt="Django Badge">&nbsp;
+            </a>
+            <a disabled href='#-my-sprints'>
+            <img disabled src="https://img.shields.io/badge/-MySQL-edeef5?style=flat&logo=MySQL&logoColor=0d31b5" alt="MySQL Badge">&nbsp;
+            </a>
+            <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
+            <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
+            </a>
+        </td>
+        <td width=50%;>
+            <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/pythonstudy">
+            <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=pythonstudy&bg_color=edeef5" />
+            </a>
+        </td>
+    </tr>
   </tbody>
 </table>
 
@@ -146,7 +171,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                 </div>            
             </td>
             <td width=50%;>
-                <h2 align="center">Symposium on the Philosophy of Computing (Nov)</h2>
+                <h2 align="center">Symposium on the Philosophy of Computing (Dec)</h2>
                 <div align="center">
                     <a href="https://philcomp.org/home" target="_blank"><img src="MyYearCode/12_nov_2023_unam_10.gif" width="400" alt="Curso arquitectura MVVM"></a>
                     <br>
