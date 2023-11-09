@@ -170,13 +170,11 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
       </td>
       <td width=50%;>
         <a href='#-my-sprints'>
-            <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
+            <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
+            <img src="https://img.shields.io/badge/-GitHub Code-edeef5?style=flat&logo=GitHub&logoColor=000000" alt="Github Badge">&nbsp;
             </a>
-            <a href='#-my-sprints'>
-            <img disabled src="https://img.shields.io/badge/-Django-edeef5?style=flat&logo=django&logoColor=092E20" alt="Django Badge">&nbsp;
-            </a>
-            <a disabled href='#-my-sprints'>
-            <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="PostgreSQL Badge">&nbsp;
+            <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
+            <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
             </a>
       </td>
     </tr>
