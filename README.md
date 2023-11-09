@@ -47,7 +47,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <thead align="center"></thead>
     <tbody>
         <tr>
-            <td>
+            <td width=50%;>
                 <div align="center">
                     <a> 
                     <!-- html, css, js -->
@@ -91,7 +91,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     </a>
                 </div>
             </td>
-            <td>
+            <td width=50%;>
                 <div align="center"> 
                     <a href="https://github.com/MarcoAraoz/github-readme-stats">
                         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut&bg_color=edeef5"
@@ -106,7 +106,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 ## 🔥 &nbsp;My Sprints
 
-<table style="border:none!important;">
+<table>
   <thead align="center">
   
   </thead>
