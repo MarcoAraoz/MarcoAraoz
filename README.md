@@ -42,8 +42,8 @@ The more I train, the more
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 </h3>
 </br>
-<div style="display: flex;">
-<table width='100%;' cellspacing="50">
+<div>
+<table cellspacing='50'>
     <tbody>
         <tr>
             <td width=50%;>
