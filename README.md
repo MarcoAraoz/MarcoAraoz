@@ -149,6 +149,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </td>
     </tr>
+    <table>
+    <tbody></tbody>
+    </table>
     <tr>
       <td colspan=2>
         <details>
@@ -156,11 +159,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
      
 ## ...More
 </summary>
-
-</details>
-      </td>
-    </tr>
-    <tr>
+ <tr>
         <td width=50%;>
             <p>
             <strong>PostgreSQL in Django:</strong>
@@ -184,6 +183,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=postgreSQL_in_Django&bg_color=edeef5" />
             </a>
         </td>
+    </tr>
+</details>
+      </td>
     </tr>
   </tbody>
 </table>
