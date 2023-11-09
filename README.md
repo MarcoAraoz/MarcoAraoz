@@ -42,8 +42,8 @@ The more I train, the more
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 </h3>
 </br>
-
-<table style="display: flex;" width='100%;'>
+<div style="display: flex;">
+<table width='100%;'>
     <tbody>
         <tr>
             <td width=50%;>
@@ -131,6 +131,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         </tr>
     </tbody>
 </table>
+</div>
 <div style="display: flex;"> 
         <div>
             <a href="https://github.com/MarcoAraoz/github-readme-stats">
