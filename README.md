@@ -87,7 +87,11 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <img src="https://img.shields.io/badge/-COLAB-edeef5?style=flat&logo=googlecolab" alt="Figma Badge">&nbsp;
                     <img src="https://img.shields.io/badge/-OpenAI-edeef5?style=flat&logo=openai&logoColor=000000" alt="Figma Badge">&nbsp;
                 </a>
-                &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
             &nbsp;
             &nbsp;
             &nbsp;
