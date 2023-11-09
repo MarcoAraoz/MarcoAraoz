@@ -168,7 +168,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
         Make a database change to scale and optimize the needs of applications.
         </p>
       </td>
-      <td width=50%;>
+      <td align="center" width=50%;>
         <a href='#-my-sprints'>
             <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
             <img src="https://img.shields.io/badge/-GitHub Code-edeef5?style=flat&logo=GitHub&logoColor=000000" alt="Github Badge">&nbsp;
