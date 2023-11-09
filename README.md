@@ -149,9 +149,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </td>
     </tr>
-    <table>
-    <tbody></tbody>
-    </table>
     <tr>
       <td colspan=2>
         <details>
@@ -159,7 +156,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
      
 ## ...More
 </summary>
- <tr>
+    <tr>
         <td width=50%;>
             <p>
             <strong>PostgreSQL in Django:</strong>
