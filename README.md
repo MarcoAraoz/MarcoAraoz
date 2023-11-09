@@ -149,10 +149,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </td>
     </tr>
-    <tr>
-      <td>
-      </td>
-    </tr>
   </tbody>
 </table>
 <details>
