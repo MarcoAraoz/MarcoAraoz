@@ -151,10 +151,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </tr>
   </tbody>
 </table>
-<details  style='border: 1px solid; font-size: 2rem;'>
+<details>
     <summary>
      
-### more
+## ...More
 </summary>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedericoComoglio)
