@@ -102,7 +102,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
   </thead>
   <tbody>
     <tr>
-        <td width=50%;>
+        <td align="center" width=50%;>
             <p>
             <strong>Python documentation review:</strong>
             exercises and notes to review Python syntax (Basic)
