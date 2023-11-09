@@ -107,10 +107,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <strong>Python documentation review:</strong>
             exercises and notes to review Python syntax (Basic)
             </p>
-            <a href='#-my-sprints'>
+            <a align="center" href='#-my-sprints'>
             <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
             </a>
-            <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
+            <a align="center" href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
             <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
             </a>
         </td>
