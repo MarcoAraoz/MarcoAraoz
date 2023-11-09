@@ -43,7 +43,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </h3>
 </br>
 
-<table>
+<table width=100%;>
     <tbody>
         <tr>
             <td width=50%;>
