@@ -153,7 +153,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ## 👇More
 </summary>
 <table>
-  <thead align="center">
+  <thead>
     <tr align="center">
       <th>Sprint</th>
       <th>Resources</th>
