@@ -118,6 +118,30 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             &nbsp;
             &nbsp;
             &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
             <td width=50%;>
             <div align="center"> 
                 <a href="https://github.com/MarcoAraoz/github-readme-stats">
