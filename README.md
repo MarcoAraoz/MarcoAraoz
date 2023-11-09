@@ -149,17 +149,19 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </td>
     </tr>
-    <table>
-    <tbody>
-    </tbody>
-    </table>
     <tr>
       <td>
+      </td>
+    </tr>
+  </tbody>
+</table>
         <details>
             <summary>
      
 ## ...More
 </summary>
+<table>
+    <tbody>
     <tr>
         <td width=50%;>
             <p>
@@ -185,12 +187,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </td>
     </tr>
-</details>
-      </td>
-    </tr>
-  </tbody>
+    </tbody>
 </table>
-
+</details>
 
 
 ## 📅&nbsp;My Code Year
