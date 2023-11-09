@@ -29,10 +29,7 @@ The more I train, the more
 <!-- My currently work stack -->
 
 - 🌱 Currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
-- 💻 I use the **MERN programming stack** to develop front-end, back-end and server infrastructure for web applications.
-
-
-<!-- ### Currently working with -->
+- 💻 I use the **MERN programming stack** to develop front-end,</br> back-end and server infrastructure for web applications.
 
 <!-- ![HTML](https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5)&nbsp; -->
 
