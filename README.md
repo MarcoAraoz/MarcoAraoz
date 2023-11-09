@@ -88,6 +88,10 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <img src="https://img.shields.io/badge/-OpenAI-edeef5?style=flat&logo=openai&logoColor=000000" alt="Figma Badge">&nbsp;
                 </a>
             </td>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
             <td width=50%;>
                 <a href="https://github.com/MarcoAraoz/github-readme-stats">
                     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut&bg_color=edeef5"
