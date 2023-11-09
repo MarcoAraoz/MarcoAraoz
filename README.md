@@ -95,8 +95,24 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             &nbsp;
             &nbsp;
             &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
             </td>
             <td width=50%;>
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
+            &nbsp;
             &nbsp;
             &nbsp;
             &nbsp;
