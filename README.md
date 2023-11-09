@@ -47,6 +47,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     <tbody>
         <tr>
             <td width=50%;>
+            <div align="center">
                 <a> 
                 <!-- html, css, js -->
                     <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
@@ -87,6 +88,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                     <img src="https://img.shields.io/badge/-COLAB-edeef5?style=flat&logo=googlecolab" alt="Figma Badge">&nbsp;
                     <img src="https://img.shields.io/badge/-OpenAI-edeef5?style=flat&logo=openai&logoColor=000000" alt="Figma Badge">&nbsp;
                 </a>
+            </div>
             &nbsp;
             &nbsp;
             &nbsp;
@@ -117,10 +119,14 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             &nbsp;
             &nbsp;
             &nbsp;
+            <div align="center"> 
                 <a href="https://github.com/MarcoAraoz/github-readme-stats">
                     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoAraoz&hide=java,html,tex&title_color=000000&text_color=000000&icon_color=2bbc8a&langs_count=4&show_icons=true&theme=transparent&layout=donut&bg_color=edeef5"
                     />
                 </a>
+            </div>
+            </td>
+        </tr>
             </td>
         </tr>
     </tbody>
