@@ -153,12 +153,12 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ## 👇More
 </summary>
 <table>
-  <thead>
-    <!-- <tr>
-      <th>Job Name</th>
-      <th>Roles & responsibilities</th>
-      <th>Duration</th>
-    </tr> -->
+  <thead align="center">
+    <tr align="center">
+      <th>Sprint</th>
+      <th>Resources</th>
+      <!-- <th>Duration</th> -->
+    </tr>
   </thead>
   <tbody>
     <tr>
