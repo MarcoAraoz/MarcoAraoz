@@ -162,7 +162,11 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
   </thead>
   <tbody>
     <tr>
-      <td width=50%;><b>Problem Setter(Procode)</b>
+      <td width=50%;>
+        <p>
+        <strong>PostgreSQL in Django:</strong>
+        Make a database change to scale and optimize the needs of applications.
+        </p>
       </td>
       <td width=50%;>
         <a href='#-my-sprints'>
