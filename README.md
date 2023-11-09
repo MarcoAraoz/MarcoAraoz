@@ -100,7 +100,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 
 ## 🔥 &nbsp;My Sprints
 
-<table>
+<table border: 'none!important;'>
   <thead align="center">
   
   </thead>
