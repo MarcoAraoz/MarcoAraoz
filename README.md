@@ -147,16 +147,38 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </tr>
   </tbody>
 </table>
-<!-- <details>
+<details>
     <summary>
-     
-<!-- ## ...More -->
-<!-- </summary>
-        <table>
-            <tbody>
-            </tbody>
-        </table> -->
-<!-- </details> -->
+    
+## 👇More
+</summary>
+<table>
+  <thead>
+    <!-- <tr>
+      <th>Job Name</th>
+      <th>Roles & responsibilities</th>
+      <th>Duration</th>
+    </tr> -->
+  </thead>
+  <tbody>
+    <tr>
+      <td width=50%;><b>Problem Setter(Procode)</b>
+      </td>
+      <td width=50%;>
+        <a href='#-my-sprints'>
+            <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
+            </a>
+            <a href='#-my-sprints'>
+            <img disabled src="https://img.shields.io/badge/-Django-edeef5?style=flat&logo=django&logoColor=092E20" alt="Django Badge">&nbsp;
+            </a>
+            <a disabled href='#-my-sprints'>
+            <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="PostgreSQL Badge">&nbsp;
+            </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</details>
 
 
 ## 📅&nbsp;My Code Year
