@@ -43,7 +43,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </h3>
 </br>
 <div style="justify-content: center;">
-<table>
+<table style="justify-content: center;">
     <tbody>
         <tr>
             <td width=50%;>
