@@ -101,9 +101,15 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ## 🔥 &nbsp;My Sprints
 
 <table style="border:none!important;">
-  <thead align="center">
-  
-  </thead>
+  <details>
+    <summary>
+     
+## ...More
+</summary>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedericoComoglio)
+----
+</details>
   <tbody>
     <tr>
         <td width=50%;>
@@ -149,15 +155,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </td>
     </tr>
-    <details>
-    <summary>
-     
-## ...More
-</summary>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedericoComoglio)
-----
-</details>
   </tbody>
 </table>
 
