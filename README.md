@@ -43,7 +43,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </h3>
 </br>
 <div style="display: flex;">
-<table width='100%;' cellspacing="10">
+<table width='100%;' cellspacing="50">
     <tbody>
         <tr>
             <td width=50%;>
