@@ -128,6 +128,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <strong>PostgreSQL in Django:</strong>
             Make a database change to scale and optimize the needs of applications.
             </p>
+            <p align="center">
             <a href='#-my-sprints'>
             <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
             </a>
@@ -140,6 +141,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <!-- <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
             <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
             </a> -->
+            </p>
         </td>
         <td width=50%;>
             <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/postgreSQL_in_Django">
