@@ -42,8 +42,8 @@ The more I train, the more
 I'm always looking to expand my tech stack and learn new tools and technologies! Here are some languages and frameworks that I use regularly
 </h3>
 </br>
-<div style="justify-content: center;">
-<table style="justify-content: center;">
+<div>
+<table>
     <thead align="center"></thead>
     <tbody>
         <tr>
