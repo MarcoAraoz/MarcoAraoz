@@ -149,9 +149,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </a>
         </td>
     </tr>
-  </tbody>
-</table>
-<details>
+    <details>
     <summary>
      
 ## ...More
@@ -160,6 +158,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedericoComoglio)
 ----
 </details>
+  </tbody>
+</table>
+
 
 
 ## 📅&nbsp;My Code Year
