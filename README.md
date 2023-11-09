@@ -44,6 +44,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </br>
 <div style="justify-content: center;">
 <table style="justify-content: center;">
+    <thead align="center"></thead>
     <tbody>
         <tr>
             <td>
@@ -97,8 +98,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
                         />
                     </a>
                 </div>
-            </td>
-        </tr>
             </td>
         </tr>
     </tbody>
