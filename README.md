@@ -147,41 +147,40 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </tr>
   </tbody>
 </table>
-<details>
-    <summary>
-    
-## 👇More
-</summary>
-<table>
-  <thead>
-    <tr align="center">
-      <th>Sprint</th>
-      <th>Resources</th>
+<!-- <details> -->
+    <!-- <summary> -->
+    <!--  -->
+<!-- ## 👇More -->
+<!-- </summary> -->
+<!-- <table> -->
+  <!-- <thead> -->
+    <!-- <tr align="center"> -->
+      <!-- <th>Sprint</th> -->
+      <!-- <th>Resources</th> -->
       <!-- <th>Duration</th> -->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width=50%;>
+    <!-- </tr> -->
+  <!-- </thead> -->
+  <!-- <tbody> -->
+    <!-- <tr> -->
+      <!-- <td width=50%;>
         <p>
         <strong>PostgreSQL in Django:</strong>
         Make a database change to scale and optimize the needs of applications.
         </p>
-      </td>
-      <td align="center" width=50%;>
-        <a href='#-my-sprints'>
-            <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
+      </td> -->
+      <!-- <td align="center" width=50%;> -->
+        <!-- <a href='#-my-sprints'> -->
+            <!-- <a href="https://github.com/hackaton-mayo-23/eq5" target="_blank">
             <img src="https://img.shields.io/badge/-GitHub Code-edeef5?style=flat&logo=GitHub&logoColor=000000" alt="Github Badge">&nbsp;
-            </a>
-            <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
+            </a> -->
+            <!-- <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
             <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
-            </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</details>
-
+            </a> -->
+      <!-- </td> -->
+    <!-- </tr> -->
+  <!-- </tbody> -->
+<!-- </table> -->
+<!-- </details> -->
 
 ## 📅&nbsp;My Code Year
 ![Alt text](image.png)
