@@ -101,15 +101,9 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 ## 🔥 &nbsp;My Sprints
 
 <table style="border:none!important;">
-  <details>
-    <summary>
-     
-## ...More
-</summary>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedericoComoglio)
-----
-</details>
+  <thead align="center">
+  
+  </thead>
   <tbody>
     <tr>
         <td width=50%;>
@@ -129,6 +123,42 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=pythonstudy&bg_color=edeef5" />
             </a>
         </td>
+    </tr>
+    <tr>
+        <td width=50%;>
+            <p>
+            <strong>PostgreSQL in Django:</strong>
+            Make a database change to scale and optimize the needs of applications.
+            </p>
+            <a href='#-my-sprints'>
+            <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
+            </a>
+            <a href='#-my-sprints'>
+            <img disabled src="https://img.shields.io/badge/-Django-edeef5?style=flat&logo=django&logoColor=092E20" alt="Django Badge">&nbsp;
+            </a>
+            <a disabled href='#-my-sprints'>
+            <img src="https://img.shields.io/badge/-PostgreSQL-edeef5?style=flat&logo=PostgreSQL&logoColor=153a59" alt="PostgreSQL Badge">&nbsp;
+            </a>
+            <!-- <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
+            <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
+            </a> -->
+        </td>
+        <td width=50%;>
+            <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/postgreSQL_in_Django">
+            <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=postgreSQL_in_Django&bg_color=edeef5" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+      <td colspan=2>
+        <details>
+            <summary>
+     
+## ...More
+</summary>
+
+</details>
+      </td>
     </tr>
     <tr>
         <td width=50%;>
