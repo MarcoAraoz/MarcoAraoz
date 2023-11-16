@@ -27,7 +27,7 @@ The more I train, the more
 </div>
 
 <!-- My currently work stack -->
-
+- Looking for a **long term job** with a cutting-edge company.
 - 🌱 Currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
 - 💻 I use the **MERN programming stack** to develop front-end,</br> back-end and server infrastructure for web applications.
 
@@ -152,7 +152,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
   </tbody>
 </table>
 
-## 🔥 &nbsp;Technical Evaluation
+## 📂 &nbsp;Technical Assessments
 
 <table style="border:none!important;">
   <thead align="center">
@@ -219,7 +219,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <!-- </table> -->
 <!-- </details> -->
 
-## 📅&nbsp;My Code Year
+## 📅&nbsp;Professional skill-building
 
 ![Alt text](image.png)
 
