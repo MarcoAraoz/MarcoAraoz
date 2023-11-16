@@ -27,9 +27,9 @@ The more I train, the more
 </div>
 
 <!-- My currently work stack -->
-- Looking for a **long term job** with a cutting-edge company.
-- 🌱 Currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
+- 🔍 Looking for a **long term job** with a cutting-edge company.
 - 💻 I use the **MERN programming stack** to develop front-end,</br> back-end and server infrastructure for web applications.
+- 🌱 Currently learning **Python**: <a href="https://github.com/mouredev/Hello-Python" target="blank">Full Python</a>
 
 <!-- ![HTML](https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5)&nbsp; -->
 
@@ -170,11 +170,23 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </p>
             <p align="center">
                 <a href='#-technical-evaluation'>
-                <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
+                <img src="https://img.shields.io/badge/-HTML-edeef5?style=flat&logo=HTML5" alt="HTML Badge">&nbsp;
                 </a>
-                <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
+                <a href='#-technical-evaluation'>
+                <img src="https://img.shields.io/badge/-JavaScript-edeef5?style=flat&logo=javascript&logoColor=dbc202" alt="JavaScript Badge">&nbsp;
+                </a>
+                <a href='#-technical-evaluation'>
+                <img src="https://img.shields.io/badge/-CSS-edeef5?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS Badge">&nbsp;
+                </a>
+                <a href='#-technical-evaluation'>
+                <img src="https://img.shields.io/badge/-React-edeef5?style=flat&logo=react&logoColor=1ca4e8" alt="React Badge">&nbsp;
+                </a>
+                <a href='#-technical-evaluation'>
+                <img src="https://img.shields.io/badge/-Tailwind-edeef5?style=flat&logo=TailwindCSS" alt="CSS Badge">&nbsp;
+                </a>
+                <!-- <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
                 <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
-                </a>
+                </a> -->
             </p>
         </td>
         <td width=50%;>
