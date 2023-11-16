@@ -152,7 +152,8 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
   </tbody>
 </table>
 
-## 📂 &nbsp;Technical Assessments
+<!-- ## 📂 &nbsp;Technical Assessments -->
+## 📂 &nbsp;Technical Evaluation
 
 <table style="border:none!important;">
   <thead align="center">
