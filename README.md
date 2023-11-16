@@ -151,6 +151,39 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
     </tr>
   </tbody>
 </table>
+
+## 🔥 &nbsp;Technical Evaluation
+
+<table style="border:none!important;">
+  <thead align="center">
+  
+  </thead>
+  <tbody>
+    <tr>
+        <td width=50%;>
+            <p>
+            <strong>Medicos Sin Fronteras:</strong>
+            Using HTML, CSS, JS.
+            Using Frameworks (React,Angular,Vue).
+            Responsive Page
+            </p>
+            <p align="center">
+                <a href='#-my-sprints'>
+                <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
+                </a>
+                <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
+                <img src="https://img.shields.io/badge/-Notion (my notes)-edeef5?style=flat&logo=notion&logoColor=black" alt="Notion">
+                </a>
+            </p>
+        </td>
+        <td width=50%;>
+            <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/pythonstudy">
+            <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=PruebaTecnica_ProgramadorEditorWeb_MSF&bg_color=edeef5" />
+            </a>
+        </td>
+    </tr>
+  </tbody>
+</table>
 <!-- <details> -->
     <!-- <summary> -->
     <!--  -->
@@ -187,6 +220,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 <!-- </details> -->
 
 ## 📅&nbsp;My Code Year
+
 ![Alt text](image.png)
 
 <br>
@@ -280,7 +314,6 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
 </div>
 <br>
 
-
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -332,4 +365,3 @@ Here are some ideas to get you started:
                         █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
                     </td>
                 </tr></table> -->
-
