@@ -168,7 +168,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             Responsive Page
             </p>
             <p align="center">
-                <a href='#-my-sprints'>
+                <a href='#-technical-evaluation'>
                 <img disabled src="https://img.shields.io/badge/-Python-edeef5?style=flat&logo=python&logoColor=3776AB" alt="Python Badge">&nbsp;
                 </a>
                 <a href='https://www.notion.so/marco-dev/Python-7d7984d8037048f6b8c37cbc0bc47819?pvs=4'>
