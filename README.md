@@ -190,7 +190,7 @@ I'm always looking to expand my tech stack and learn new tools and technologies!
             </p>
         </td>
         <td width=50%;>
-            <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/pythonstudy">
+            <a style="padding: 10px; margin: 5px;" href="https://github.com/MarcoAraoz/PruebaTecnica_ProgramadorEditorWeb_MSF">
             <img alt="Stars" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAraoz&repo=PruebaTecnica_ProgramadorEditorWeb_MSF&bg_color=edeef5" />
             </a>
         </td>
